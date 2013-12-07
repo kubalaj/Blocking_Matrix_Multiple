@@ -1,0 +1,55 @@
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+A_POINTS:    1
+make: Nothing to be done for `all'.
+./mp ../data/matrix.200.200 ../data/matrix.200.200 output 
+accuracy:   6.21504625542e-10
+your time:  0.0466890335083
+dot:        0.00741219520569
+accuracy
+B_POINTS:    5
+threshold 1
+B_POINTS:    5
+threshold 2
+B_POINTS:    5
+./mp ../data/matrix.400.400 ../data/matrix.400.400 output 
+accuracy:   6.89720991431e-09
+your time:  0.235599040985
+dot:        0.021399974823
+accuracy
+B_POINTS:    5
+threshold 1
+B_POINTS:    5
+threshold 2
+B_POINTS:    5
+./mp ../data/matrix.800.800 ../data/matrix.800.800 output 
+accuracy:   8.02078261586e-08
+your time:  1.73910903931
+dot:        0.123193025589
+accuracy
+B_POINTS:    5
+threshold 1
+B_POINTS:    5
+threshold 2
+B_POINTS:    5
+./mp ../data/matrix.1500.1500 ../data/matrix.1500.1500 output 
+accuracy:   7.39776396586e-07
+your time:  10.2684090137
+dot:        0.746376991272
+accuracy
+B_POINTS:    5
+threshold 1
+B_POINTS:    5
+./mp ../data/matrix.2000.2300 ../data/matrix.2300.1110 output 
+accuracy:   1.36781682158e-06
+your time:  15.7844450474
+dot:        1.1253759861
+accuracy
+B_POINTS:    5
